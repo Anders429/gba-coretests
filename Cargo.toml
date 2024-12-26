@@ -8,6 +8,7 @@ description = "The Rust Core Library"
 # As of 2024, it was src/tools/opt-dist, the core-no-fp-fmt-parse test and
 # the version of the prelude imported in core/lib.rs.
 edition = "2021"
+publish = false
 
 [profile.dev]
 opt-level = 3
