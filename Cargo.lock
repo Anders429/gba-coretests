@@ -14,9 +14,9 @@ dependencies = [
 
 [[package]]
 name = "gba_test"
-version = "0.2.0"
+version = "0.3.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "c65ca1eadf5963791ef0adb37f6326b9c86022b907ee1469e6c7f19136ee2597"
+checksum = "903e909b130e32c5d43c3657eaf06f070dc7a84dbd5be5def86dd7295081a783"
 dependencies = [
  "gba_test_macros",
  "log",
@@ -24,9 +24,9 @@ dependencies = [
 
 [[package]]
 name = "gba_test_macros"
-version = "0.2.0"
+version = "0.3.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "e1a445bdea11ab24d8b0ba19be6d38cb46fd53f549080fe04f7deb65d18ab367"
+checksum = "9a7bd43b025bef0c60ea4c01c19dbe6affbff5b52621e4a0c53226d3ae321b66"
 dependencies = [
  "proc-macro2",
  "quote",
